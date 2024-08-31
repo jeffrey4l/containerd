@@ -18,6 +18,4 @@
 
 package builtins
 
-import (
-	_ "github.com/containerd/containerd/v2/pkg/tracing/plugin"
-)
+// 	_ "github.com/containerd/containerd/v2/pkg/tracing/plugin"
